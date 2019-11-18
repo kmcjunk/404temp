@@ -1,0 +1,162 @@
+16:28:35: Main: Determining number of threads to create
+16:28:36: Main: Spinning up 32 thread(s)
+16:28:36: Main: about to set event
+16:28:36: Producer: got message, number of containers added to queue - 32
+16:28:36: Producer has marker: yo-dylan
+16:28:36: Producer: Queue size: 32
+16:28:36: Producer: got message, number of containers added to queue - 0
+16:28:36: Producer: received event. Exiting
+16:28:37: Consumer: (tc=16, queue size=0) Toggling CDN status for supernova
+16:28:37: Consumer: (tc=16, queue size=0) Toggling CDN status for DoNotDelete-Prewitt-NewPricing
+16:28:37: Consumer: (tc=14, queue size=0) Toggling CDN status for *myconfigbackup
+16:28:37: Consumer: (tc=13, queue size=0) Toggling CDN status for *myconfignovaagent
+16:28:37: Consumer: (tc=12, queue size=0) Toggling CDN status for ezpurge2
+16:28:37: Consumer: (tc=11, queue size=0) Toggling CDN status for nettune_public_for_kc_NODELETE
+16:28:37: Consumer: (tc=10, queue size=0) Toggling CDN status for upload
+16:28:37: Consumer: (tc=9, queue size=0) Toggling CDN status for troubleshooting_scripts
+16:28:37: Consumer: (tc=8, queue size=0) Toggling CDN status for fail2ban
+16:28:37: Consumer: (tc=8, queue size=0) Toggling CDN status for ezpurge4
+16:28:37: Consumer: (tc=8, queue size=0) Toggling CDN status for nova-agent-0.2.1-1
+16:28:37: Consumer: (tc=7, queue size=0) Toggling CDN status for ezpurge1
+16:28:37: Consumer: (tc=7, queue size=0) Toggling CDN status for becky_test
+16:28:37: Consumer: (tc=3, queue size=0) Toggling CDN status for yo-dylan
+16:28:37: Consumer: (tc=2, queue size=0) Toggling CDN status for *myconfignetwork
+16:28:37: Main: Total number of enabled containers - 15
+16:28:37: Main: Total number of disabled container - 17
+16:28:37: Main: Total checked - 32
+16:28:37: Main: Containers toggled - 15
+16:31:31: Main: Determining number of threads to create
+16:31:32: Main: Spinning up 32 thread(s)
+16:31:32: Main: about to set event
+16:31:32: Producer: got message, number of containers added to queue - 32
+16:31:32: Producer has marker: yo-dylan
+16:31:32: Producer: Queue size: 15
+16:31:33: Producer: got message, number of containers added to queue - 0
+16:31:33: Producer: received event. Exiting
+16:31:33: Consumer: (tc=16, queue size=0) Toggling CDN status for *myconfignovaagent
+16:31:33: Consumer: (tc=16, queue size=0) Toggling CDN status for supernova
+16:31:33: Consumer: (tc=14, queue size=0) Toggling CDN status for becky_test
+16:31:33: Consumer: (tc=13, queue size=0) Toggling CDN status for ezpurge2
+16:31:33: Consumer: (tc=12, queue size=0) Toggling CDN status for fail2ban
+16:31:33: Consumer: (tc=12, queue size=0) Toggling CDN status for troubleshooting_scripts
+16:31:33: Consumer: (tc=11, queue size=0) Toggling CDN status for ezpurge1
+16:31:33: Consumer: (tc=9, queue size=0) Toggling CDN status for ezpurge4
+16:31:33: Consumer: (tc=8, queue size=0) Toggling CDN status for nova-agent-0.2.1-1
+16:31:33: Consumer: (tc=8, queue size=0) Toggling CDN status for *myconfigbackup
+16:31:33: Consumer: (tc=6, queue size=0) Toggling CDN status for DoNotDelete-Prewitt-NewPricing
+16:31:33: Consumer: (tc=5, queue size=0) Toggling CDN status for nettune_public_for_kc_NODELETE
+16:31:33: Consumer: (tc=4, queue size=0) Toggling CDN status for upload
+16:31:33: Consumer: (tc=4, queue size=0) Toggling CDN status for yo-dylan
+16:31:33: Consumer: (tc=2, queue size=0) Toggling CDN status for *myconfignetwork
+16:31:33: Main: Total number of enabled containers - 15
+16:31:33: Main: Total number of disabled container - 17
+16:31:33: Main: Total checked - 32
+16:31:33: Main: Containers toggled - 15
+16:35:55: Main: Determining number of threads to create
+16:35:56: Main: Spinning up 32 thread(s)
+16:35:56: Main: about to set event
+16:35:56: Producer: got message, number of containers added to queue - 32
+16:35:56: Producer has marker: yo-dylan
+16:35:56: Producer: Queue size: 32
+16:35:56: Producer: got message, number of containers added to queue - 0
+16:35:56: Producer: received event. Exiting
+16:35:57: Consumer: (tc=16, queue size=0) Toggling CDN status for ezpurge2
+16:35:57: Consumer: (tc=15, queue size=0) Toggling CDN status for becky_test
+16:35:57: Consumer: (tc=14, queue size=0) Toggling CDN status for *myconfigbackup
+16:35:57: Consumer: (tc=13, queue size=0) Toggling CDN status for troubleshooting_scripts
+16:35:57: Consumer: (tc=12, queue size=0) Toggling CDN status for upload
+16:35:57: Consumer: (tc=12, queue size=0) Toggling CDN status for *myconfignovaagent
+16:35:57: Consumer: (tc=11, queue size=0) Toggling CDN status for ezpurge1
+16:35:57: Consumer: (tc=11, queue size=0) Toggling CDN status for fail2ban
+16:35:57: Consumer: (tc=11, queue size=0) Toggling CDN status for ezpurge4
+16:35:57: Consumer: (tc=11, queue size=0) Toggling CDN status for DoNotDelete-Prewitt-NewPricing
+16:35:57: Consumer: (tc=11, queue size=0) Toggling CDN status for supernova
+16:35:57: Consumer: (tc=5, queue size=0) Toggling CDN status for *myconfignetwork
+16:35:57: Consumer: (tc=4, queue size=0) Toggling CDN status for nova-agent-0.2.1-1
+16:35:57: Consumer: (tc=3, queue size=0) Toggling CDN status for yo-dylan
+16:35:57: Consumer: (tc=2, queue size=0) Toggling CDN status for nettune_public_for_kc_NODELETE
+16:35:57: Main: Total number of enabled containers - 15
+16:35:57: Main: Total number of disabled container - 17
+16:35:57: Main: Total checked - 32
+16:35:57: Main: Containers toggled - 15
+16:36:41: Main: Determining number of threads to create
+16:37:49: Main: Spinning up 32 thread(s)
+16:37:49: Main: about to set event
+16:37:50: Producer: got message, number of containers added to queue - 32
+16:37:50: Producer has marker: yo-dylan
+16:37:50: Producer: Queue size: 17
+16:37:50: Producer: got message, number of containers added to queue - 0
+16:37:50: Producer: received event. Exiting
+16:37:50: Consumer: (tc=16, queue size=0) Toggling CDN status for *myconfignovaagent
+16:37:50: Consumer: (tc=15, queue size=0) Toggling CDN status for nova-agent-0.2.1-1
+16:37:51: Consumer: (tc=14, queue size=0) Toggling CDN status for ezpurge1
+16:37:51: Consumer: (tc=13, queue size=0) Toggling CDN status for ezpurge4
+16:37:51: Consumer: (tc=12, queue size=0) Toggling CDN status for becky_test
+16:37:51: Consumer: (tc=11, queue size=0) Toggling CDN status for DoNotDelete-Prewitt-NewPricing
+16:37:51: Consumer: (tc=11, queue size=0) Toggling CDN status for supernova
+16:37:51: Consumer: (tc=9, queue size=0) Toggling CDN status for *myconfigbackup
+16:37:51: Consumer: (tc=9, queue size=0) Toggling CDN status for fail2ban
+16:37:51: Consumer: (tc=7, queue size=0) Toggling CDN status for troubleshooting_scripts
+16:37:51: Consumer: (tc=6, queue size=0) Toggling CDN status for upload
+16:37:51: Consumer: (tc=5, queue size=0) Toggling CDN status for yo-dylan
+16:37:51: Consumer: (tc=5, queue size=0) Toggling CDN status for ezpurge2
+16:37:51: Consumer: (tc=3, queue size=0) Toggling CDN status for *myconfignetwork
+16:37:51: Consumer: (tc=2, queue size=0) Toggling CDN status for nettune_public_for_kc_NODELETE
+16:37:51: Main: Total number of enabled containers - 15
+16:37:51: Main: Total number of disabled container - 17
+16:37:51: Main: Total checked - 32
+16:37:51: Main: Containers toggled - 15
+16:38:12: Main: Determining number of threads to create
+16:38:14: Main: Spinning up 32 thread(s)
+16:38:14: Main: about to set event
+16:38:15: Producer: got message, number of containers added to queue - 32
+16:38:15: Producer has marker: yo-dylan
+16:38:15: Producer: Queue size: 32
+16:38:16: Producer: got message, number of containers added to queue - 0
+16:38:16: Producer: received event. Exiting
+16:38:18: Consumer: (tc=16, queue size=0) Toggling CDN status for supernova
+16:38:18: Consumer: (tc=15, queue size=0) Toggling CDN status for *myconfignovaagent
+16:38:18: Consumer: (tc=14, queue size=0) Toggling CDN status for upload
+16:38:18: Consumer: (tc=14, queue size=0) Toggling CDN status for troubleshooting_scripts
+16:38:18: Consumer: (tc=13, queue size=0) Toggling CDN status for ezpurge4
+16:38:18: Consumer: (tc=12, queue size=0) Toggling CDN status for becky_test
+16:38:18: Consumer: (tc=12, queue size=0) Toggling CDN status for DoNotDelete-Prewitt-NewPricing
+16:38:18: Consumer: (tc=12, queue size=0) Toggling CDN status for ezpurge2
+16:38:18: Consumer: (tc=11, queue size=0) Toggling CDN status for *myconfigbackup
+16:38:18: Consumer: (tc=10, queue size=0) Toggling CDN status for nova-agent-0.2.1-1
+16:38:18: Consumer: (tc=6, queue size=0) Toggling CDN status for yo-dylan
+16:38:18: Consumer: (tc=5, queue size=0) Toggling CDN status for fail2ban
+16:38:18: Consumer: (tc=5, queue size=0) Toggling CDN status for ezpurge1
+16:38:18: Consumer: (tc=3, queue size=0) Toggling CDN status for nettune_public_for_kc_NODELETE
+16:38:18: Consumer: (tc=3, queue size=0) Toggling CDN status for *myconfignetwork
+16:38:18: Main: Total number of enabled containers - 15
+16:38:18: Main: Total number of disabled container - 17
+16:38:18: Main: Total checked - 32
+16:38:18: Main: Containers toggled - 15
+16:43:07: Main: Determining number of threads to create
+16:43:09: Main: Spinning up 32 thread(s)
+16:43:09: Main: about to set event
+16:43:10: Producer: got message, number of containers added to queue - 32
+16:43:10: Producer has marker: yo-dylan
+16:43:10: Producer: Queue size: 16
+16:43:11: Producer: got message, number of containers added to queue - 0
+16:43:11: Producer: received event. Exiting
+16:43:13: Consumer: (tc=16, queue size=0) Toggling CDN status for *myconfignovaagent
+16:43:13: Consumer: (tc=15, queue size=0) Toggling CDN status for nova-agent-0.2.1-1
+16:43:13: Consumer: (tc=14, queue size=0) Toggling CDN status for supernova
+16:43:13: Consumer: (tc=13, queue size=0) Toggling CDN status for ezpurge2
+16:43:13: Consumer: (tc=13, queue size=0) Toggling CDN status for DoNotDelete-Prewitt-NewPricing
+16:43:13: Consumer: (tc=12, queue size=0) Toggling CDN status for becky_test
+16:43:13: Consumer: (tc=10, queue size=0) Toggling CDN status for troubleshooting_scripts
+16:43:13: Consumer: (tc=9, queue size=0) Toggling CDN status for ezpurge4
+16:43:13: Consumer: (tc=8, queue size=0) Toggling CDN status for *myconfigbackup
+16:43:13: Consumer: (tc=7, queue size=0) Toggling CDN status for ezpurge1
+16:43:13: Consumer: (tc=6, queue size=0) Toggling CDN status for yo-dylan
+16:43:13: Consumer: (tc=5, queue size=0) Toggling CDN status for *myconfignetwork
+16:43:13: Consumer: (tc=4, queue size=0) Toggling CDN status for fail2ban
+16:43:13: Consumer: (tc=3, queue size=0) Toggling CDN status for upload
+16:43:14: Consumer: (tc=2, queue size=0) Toggling CDN status for nettune_public_for_kc_NODELETE
+16:43:14: Main: Total number of enabled containers - 15
+16:43:14: Main: Total number of disabled container - 17
+16:43:14: Main: Total checked - 32
+16:43:14: Main: Containers toggled - 15
